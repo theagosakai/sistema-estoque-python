@@ -140,27 +140,3 @@ sistema-estoque-python/
 
 > O arquivo `estoque.db` é criado automaticamente pela aplicação e não é versionado no Git.
 
-
-
-\## Próximos passos
-
-
-
-\* Sistema de login e permissões
-
-\* Cadastro de fornecedores
-
-\* Cadastro de clientes
-
-\* Relatórios
-
-\* Exportação para Excel
-
-\* Exportação para PDF
-
-\* Leitura de código de barras
-
-\* Backup automático do banco
-
-
-
